@@ -1,4 +1,4 @@
-# Atom UI Theme Template
+# Atom UI Theme Template :rocket:
 
 Updated: This is a __starter template__ for creating an Atom UI theme.
 
@@ -7,7 +7,7 @@ This template only includes the __minimum of styling__ needed and comes with a n
 Happy theming! 🚀
 
 
-## Getting started
+## :rocket: Getting started
 
 1. Fork this repository.
 2. Continue with step 2 from [Creating a UI Theme](http://flight-manual.atom.io/hacking-atom/sections/creating-a-theme/#creating-a-ui-theme)
@@ -20,8 +20,8 @@ ps. Don't forget to delete the above and edit the below in your own `README.md`.
 ---
 
 
-# My UI theme
+# My UI theme :hamburger:
 
-A short description of your theme.
+A short description of your theme. :fries:
 
 ![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
